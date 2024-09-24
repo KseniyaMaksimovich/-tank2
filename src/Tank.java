@@ -1,6 +1,6 @@
 public class Tank {
 
-    static final String MODEL = "T34";
+    static final String MODEL = "T35";
     static int ntanks;
 
     private int x, y;
